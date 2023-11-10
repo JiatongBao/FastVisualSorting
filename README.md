@@ -10,6 +10,27 @@ Accurate and efficient sorting of diverse mixed solid waste is essential for max
 <div align="center"><img src="images/robot.png" width="80%"/></div>
 Fig.1 Overview of the structure of our robotic waste sorter. The robot comprises a conveyor belt system, a vision system, an air ejection system, an AI computer station, and two collection bins.
 
+### Experiment Videos
+
+#### Task 1: Sorting green PET bottles
+
+[![ Sorting green PET bottles ](https://res.cloudinary.com/marcomontalbano/image/upload/v1699586618/video_to_markdown/images/youtube--yl65Y7W8FJc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=yl65Y7W8FJc " Sorting green PET bottles ")
+
+#### Task 2: Sorting oil bottles
+
+[![ Sorting oil bottles ](https://res.cloudinary.com/marcomontalbano/image/upload/v1699586831/video_to_markdown/images/youtube--EQEDebjp5eI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=EQEDebjp5eI " Sorting oil bottles ")
+
+#### Task 3: Sorting HDPE bottles
+
+[![ Sorting HDPE bottles ](https://res.cloudinary.com/marcomontalbano/image/upload/v1699586894/video_to_markdown/images/youtube--7ZeIG9gyc60-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=7ZeIG9gyc60 " Sorting HDPE bottles ")
+
+#### Task 4: Sorting PP transparent boxes
+
+[![ Sorting PP transparent boxes ](https://res.cloudinary.com/marcomontalbano/image/upload/v1699587113/video_to_markdown/images/youtube--jqglAnkg5_0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=jqglAnkg5_0 " Sorting PP transparent boxes ")
+
+#### Task 5: Sorting paper
+
+[![ Sorting paper ](https://res.cloudinary.com/marcomontalbano/image/upload/v1699587170/video_to_markdown/images/youtube--9kb5OzwOjM0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=9kb5OzwOjM0 " Sorting paper ")
 
 ## Contact
 If you have any questions, please let me know: [Jiatong Bao] jtbao[at]yzu[dot]edu[dot]cn
